@@ -1,0 +1,8 @@
+ru\yandex\settings\Init.class
+ru\yandex\tests\EmailTest.class
+ru\yandex\steps\Step.class
+ru\yandex\settings\Mail.class
+ru\yandex\settings\User.class
+ru\yandex\pages\MailPage.class
+ru\yandex\settings\WebDriverSettings.class
+ru\yandex\pages\AuthorizationPage.class

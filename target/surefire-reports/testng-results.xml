@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="33120" started-at="2020-08-02T18:29:54 MSK" finished-at="2020-08-02T18:30:27 MSK">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="33120" started-at="2020-08-02T18:29:54 MSK" finished-at="2020-08-02T18:30:27 MSK">
+      <class name="ru.yandex.tests.EmailTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:ru.yandex.tests.EmailTest@4a3329b9]" name="setup" is-config="true" duration-ms="6396" started-at="2020-08-02T18:29:54 MSK" finished-at="2020-08-02T18:30:00 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:ru.yandex.tests.EmailTest@4a3329b9]" name="setupTest" is-config="true" duration-ms="17930" started-at="2020-08-02T18:30:00 MSK" finished-at="2020-08-02T18:30:18 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="saveEmailToDratf()[pri:0, instance:ru.yandex.tests.EmailTest@4a3329b9]" name="saveEmailToDratf" duration-ms="2772" started-at="2020-08-02T18:30:18 MSK" description="Сохранение письма в черновиках" finished-at="2020-08-02T18:30:21 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- saveEmailToDratf -->
+        <test-method status="PASS" signature="sendEmail()[pri:0, instance:ru.yandex.tests.EmailTest@4a3329b9]" name="sendEmail" duration-ms="3219" started-at="2020-08-02T18:30:21 MSK" description="Отправка письма по почте" finished-at="2020-08-02T18:30:25 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sendEmail -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:ru.yandex.tests.EmailTest@4a3329b9]" name="endTest" is-config="true" duration-ms="1895" started-at="2020-08-02T18:30:25 MSK" finished-at="2020-08-02T18:30:26 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:ru.yandex.tests.EmailTest@4a3329b9]" name="close" is-config="true" duration-ms="789" started-at="2020-08-02T18:30:26 MSK" finished-at="2020-08-02T18:30:27 MSK">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- ru.yandex.tests.EmailTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
